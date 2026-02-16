@@ -9,13 +9,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-gon%C3%A7alves-vasconcelos-1b1311308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
-<a <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-        <img alt="github-snake" src="github-snake.svg" />
-      </picture>
-</a>
+</div>
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -53,18 +47,17 @@
 <br></div> -->
 
 
+<img width="1280" height="110" alt="pngwing com" src="https://github.com/user-attachments/assets/a20c9d27-e6f3-487f-8e06-6a987e8fa170" />
 
 
-<div align="left">  
+<div align="center">  
  <img src="https://lastfm-recently-played.vercel.app/api?user=Sukita2005" />
 </div>
 
-<br><br>
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/686d2cc9-4bef-43a8-9505-76e986f07ea5" width="700px"/>
+  
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVrdzd3cjR6bGM3ZnR6d3JiMDQxM3F6Mmxha3BuamdnMjAzNzlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zmdLMHpdFKkWTDsW4D/giphy.gif)
+### “I find it so amazing when people tell me that electronic music has no soul. You can’t blame the computer.” — Björk
 </div>
-
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
