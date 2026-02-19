@@ -6,10 +6,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SukitaAM&bg_color=b4ddie&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Redes Sociais:
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-gon%C3%A7alves-vasconcelos-1b1311308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bagr.elaranja/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gustavo-gon%C3%A7alves-vasconcelos-1b1311308/)
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F5FF&size=25&center=true&vCenter=true&width=700&lines=learning...;building...;evolving...;system+in+progress...)](https://git.io/typing-svg)
 
@@ -70,10 +70,6 @@ Ainda estou no começo, mas estou construindo minha base todos os dias.
 
 <img width="1280" height="110" alt="pngwing com" src="https://github.com/user-attachments/assets/a20c9d27-e6f3-487f-8e06-6a987e8fa170" />
 
-
-<div align="center">  
- <img src="https://lastfm-recently-played.vercel.app/api?user=Sukita2005" />
-</div>
 
 <div align="center">
   
